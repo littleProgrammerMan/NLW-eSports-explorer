@@ -169,7 +169,7 @@ section div ul li:nth-child(4) {
 @keyframes fromBottom {
     from {
         opacity: 0;
-        transform: translateY(-30px);
+        transform: translateY(30px);
     }
 
     to {
