@@ -1,2 +1,19 @@
-# NLW-eSports-explorer
-Repositório focado no desenvolvimento da semana NLW na trilha Explorer da Rocketseat. Desenvolvendo uma webPage completa com HTML, CSS e JavaScript
+# 🚀 NLW eSports 🕹 
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto construído do evento Next Level Week da Rocketseat.
+
+[🔗 Clique aqui para acessar](https://littleprogrammerman.github.io/NLW-eSports-explorer/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e GitHub
+
+## 💜 Contato
+
+littledeveloperman@gmail.com
